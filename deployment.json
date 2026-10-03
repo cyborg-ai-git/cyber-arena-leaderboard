@@ -1,13 +1,13 @@
 {
-  "server_peer_id": "289b81b5594bc4ea94580234596efb43a8873eadfda00045e6a8459df42c5923",
   "transport": "evo-master-peer",
   "client_url": "https://cyborg-ai-git.github.io/cyber-arena-quiz/",
   "leaderboard_url": "https://cyborg-ai-git.github.io/cyber-arena-leaderboard/",
   "sha256": {
-    "index.html": "904b4c6781d8bc1afd68b8592d21af65e06de61c54802407630980814782b59a",
-    "app_quiz_leadrborad-69bf3c86b557fae7.js": "5a7cb24a64f6c73f73dd8b466b4a321fb757a0f443f40b0526c4e9046eea9895",
+    "app_quiz_leadrborad-25b60a9e17edcb0f_bg.wasm": "65cc47c16dae57b67d9f7b555f2d3a0242ebd20b297ea065bee12efa08fddc5b",
+    "index.html": "d1b71cb6c2abf8a39271130ef52cd944ba1b8d36562ea2c233a27bda65e559f0",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "app_quiz_leadrborad-69bf3c86b557fae7_bg.wasm": "b8a9e80a2b2967e4844c051a4932222ec8c5f52273d63e54addbd032919545f1",
+    "app_quiz_leadrborad-25b60a9e17edcb0f.js": "54f8f80e573cccffb02f90bf97268068d2408b12d255db7fd6a689b0cf2ad087",
     "logo-a7d16afd66afaed1.png": "542e46f2a7490e830cc87594ae6434f846e66f89a32fe947fe375056c22c187b"
-  }
+  },
+  "server_peer_id": "289b81b5594bc4ea94580234596efb43a8873eadfda00045e6a8459df42c5923"
 }
